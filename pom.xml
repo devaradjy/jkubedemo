@@ -16,6 +16,7 @@
 	<description>Product Service</description>
 	<properties>
 		<java.version>1.8</java.version>
+		<jkube.enricher.jkube-service.type>NodePort</jkube.enricher.jkube-service.type>
 	</properties>
 	<dependencies>
 		<dependency>
